@@ -37,5 +37,5 @@ I am a passionate junior developer with a backgroung in digital marketing, who h
  ## 📈 Statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evelinar26&show_icons=true&locale=en&layout=compact" alt="evelinar26" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evelinar26&show_icons=true&locale=en" alt="evelinar26" /></p>
+
 
