@@ -30,7 +30,7 @@ I am a passionate junior developer with a backgroung in digital marketing, who h
 | Name                         | Description       | Timeframe | Tech/tools        |
 | ---------------------------- | ----------------- | ----------- | ----------------- |
 | [**Travel_lite**](https://github.com/evelinar26/Travel-lite) | A webapp to help you make sustainable travel decisions. | 10 days | JS, React, Tailwind, Cypress, Google API, Travel advisor API |
-| [**Acebook**](https://github.com/evelinar26/Acebook)| An experimental facebook clone. | 10 days |  Ruby, HTML, CSS, Handlebars, Heroku, Mongoose, Github Actions (CI/CD), MongoDB |
+| [**Acebook**](https://github.com/evelinar26/acebook-project-js)| An experimental facebook clone. | 10 days |  Ruby, HTML, CSS, Handlebars, Heroku, Mongoose, Github Actions (CI/CD), MongoDB |
 | [**Bank Test**](https://github.com/evelinar26/bank-tech-test) | A quick and simple bank simulator. | 2 days | JavaScript, jest |
 </br>
  
